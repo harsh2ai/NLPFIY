@@ -23,12 +23,11 @@ One stop destination for all NLP tasks
     |_______LanguageModelling
     |_______app.py
     
-    ```
+```
     
     
-    **1.Text Classification**
-    
-    This module is used for Text classification based on classes
+ **1.Text Classification**
+This module is used for Text classification based on classes
     
     
 ### Testing the APIs:
